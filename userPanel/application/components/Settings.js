@@ -1,0 +1,1 @@
+export let settings = { addres: "http://8.8.8.8", port: 3000 } // change 8.8.8.8 to your pc ip
